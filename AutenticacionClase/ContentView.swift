@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  AutenticacionFull
+//  AutenticacionClase
 //
 //  Created by CHRISTIAN HERNANDEZ RIVERA on 27/10/26.
 //
