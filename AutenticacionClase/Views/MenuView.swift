@@ -45,7 +45,7 @@ struct MenuView: View {
         switch ejemplo {
         // Relleno temporal: cada ejemplo lo reemplaza por su pantalla real.
         case  .login:
-            Text("Pantalla de login en construccion")
+            LoginView()
         case  .biometria:
             Text("Próximamente")
         case .bloqueo:
