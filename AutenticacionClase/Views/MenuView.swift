@@ -47,7 +47,7 @@ struct MenuView: View {
         case  .login:
             LoginView()
         case  .biometria:
-            Text("Próximamente")
+            BiometriaView()
         case .bloqueo:
             Text("Si da tiempo la construimos")
         }
